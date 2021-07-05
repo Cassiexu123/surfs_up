@@ -6,7 +6,7 @@ To be specific, my goal is to provide W. Avy with insight into the weather patte
 ## Preciption Analysis
 
 2021 times precipitation was observed and the average precipitation amounts for each station for each day is 0.177. During the day, it can be no preciption or have 6.7 precipitation for each station.
-![](Images/precipitation)
+![](Images/precipitation.png)
 
 ## Weather Station Analysis
 total 9 stations and find the specific ID and total count for those locations.
