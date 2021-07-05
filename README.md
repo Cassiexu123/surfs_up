@@ -23,8 +23,9 @@ W.Avy wants temperature data for months of June and December in Oahu before open
 -The average temperature of June and December are very close, and only 74°F-71°F=3°F difference. 
 -The min temperature is 64°F and the max temperature is 85°F in June, so the temperature range is 21°F in June.
 -The min temperature is 56°F and the max temperature is 83°F in June, so the temperature range is 27°F in June.
-![](Images/June Temps)
-![](Images/Dec Temps)
+![](Images/June%20Temps.PNG)
+
+![](Images/Dec%20Temps.PNG)
 
 ## Summary
 Overall, the temperate is stable and warm during the year in Oahu. If surf & ice cream store opening won't be impacted by the temperature. 
