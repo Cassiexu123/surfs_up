@@ -13,7 +13,8 @@ To be specific, my goal is to provide W. Avy with insight into the weather patte
 total 9 stations and find the specific ID and total count for those locations.
 W. Avy tells you that he's interested in the most active station.W. Avy is passionate about the location—he's convinced that it will provide the best weather for surfing and eating ice cream. So you tell him that you'll investigate this location further.
 The results show that the low (minimum) temperature is 54 degrees, the high (maximum) temperature is 85°F, and the average temperature is approximately 71.7°F for the most active station.
-![](Images/station-histogram)
+
+![](Images/station-histogram.png)
 
 ## Overview Challenge Analysis(June & December)
 W.Avy wants temperature data for months of June and December in Oahu before opening the surf shop.
